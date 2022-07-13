@@ -33,13 +33,8 @@ Wheather:
 <p align="center">
 
 ### Data Dropping
-- Both Datasets:
-    - Irrelevant columns for the EDA.
-    - Null columns , columns with a single value.
-    - Data from 2014.
-
-- Energy Dataset:
-Measurements with high consumption and very low generation (10,000): 
+    
+- Energy Dataset: Measurements with high consumption and very low generation (10,000): 
 <p align="center">
   <img src="pictures/image5.png" width="400"/>
 </p>
@@ -48,7 +43,15 @@ Measurements with high consumption and very low generation (10,000):
 - Weather Dataset:
 
   - Data with exceptional pressure (< 900 hPa, > 1100 hPa)
-  - Data with hourly rainfall of 12 mm in Barcelona, 05,06/06/2016.
-  - Exceptional wind speed- 133 m/s in July - one observation.
+  - Data with hourly rainfall of 12 mm in Barcelona in summer 2016 (after checking the site that displays the weather data, an incorrect figure appears).
+  - Exceptional wind speed- 133 m/s in July (one observation).
 
+### Different energy sources usage as function of time and their effect on energy prices
+Predominant energy sources in Spain: fossil gass , hard coal ,wind.
+<p align="center">
+  <img src="pictures/image5.png" width="400"/>
+</p>
+<p align="center">
+
+around february and march there is an increase of use of wind and energy and hydro water reservoir and decrease in the use of hard coal energy, while around june-september there is an increase in the use of solar energy and decrease in the use of wind energy.
 
