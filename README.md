@@ -17,8 +17,8 @@ Data analysis exploration of 4 years of electrical consumption, generation, pric
 Data Exploration:
 
 Eneregy
-- Energy demand prices seem to drop in spring time and rise around the peaks of the summer and winter.
 - Total Energy demand seem to drop in spring and autumn, and to rise in winter and summer.
+- Energy demand prices seem to drop in spring time and rise around the peaks of the summer and winter.
 
 <p align="center">
   <img src="pictures/image4.png" width="800"/>
@@ -32,5 +32,22 @@ Wheather:
 </p>
 <p align="center">
 
+Data Dropping:
+Both Datasets:
+    - Irrelevant columns for the EDA
+    - Null columns , columns with a single value
+    - Data from 2014
+
+Energy Dataset
+Measurements with high consumption and very low generation. 
+<p align="center">
+  <img src="pictures/image3.png" width="600"/>
+</p>
+<p align="center">
+Weather Dataset
+
+Data with exceptional pressure (< 900 hPa, > 1100 hPa)
+Data with hourly rainfall of 12 mm in Barcelona, 05,06/06/2016.
+Exceptional wind speed- 133 m/s in july - one observation.
 
 
