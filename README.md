@@ -47,11 +47,13 @@ Wheather:
   - Exceptional wind speed- 133 m/s in July (one observation).
 
 ### Different energy sources usage as function of time and their effect on energy prices
+
+Predominant energy sources in Spain: fossil gass , hard coal ,wind.
+
 <p align="center">
-  <img src="pictures/image6.png" width="400"/>
+  <img src="pictures/image6.PNG" width="500"/>
 </p>
 <p align="center">
 
-Predominant energy sources in Spain: fossil gass , hard coal ,wind.
 Around february and march there is an increase of use of wind and energy and hydro water reservoir and decrease in the use of hard coal energy, while around june-september there is an increase in the use of solar energy and decrease in the use of wind energy.
 
