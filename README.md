@@ -39,7 +39,7 @@ Wheather:
     - Data from 2014.
 
 - Energy Dataset:
-Measurements with high consumption and very low generation: 
+Measurements with high consumption and very low generation (10,000): 
 <p align="center">
   <img src="pictures/image5.png" width="400"/>
 </p>
@@ -49,6 +49,6 @@ Measurements with high consumption and very low generation:
 
   - Data with exceptional pressure (< 900 hPa, > 1100 hPa)
   - Data with hourly rainfall of 12 mm in Barcelona, 05,06/06/2016.
-  - Exceptional wind speed- 133 m/s in july - one observation.
+  - Exceptional wind speed- 133 m/s in July - one observation.
 
 
