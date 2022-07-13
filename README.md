@@ -1,5 +1,9 @@
 # EDA - Energy Demand Generation and Weather 
-Data analysis exploration of 4 years of electrical consumption, generation, pricing, and weather data for Spain.  Hypothesis Investigation: Weather factors affect energy consumption and generation, which affect energy prices. 
+
+The dataset contains hourly intervals of electrical consumption, generation, pricing and weather data in Spain. 
+The project focused on Exploratory Data Analysis (EDA): data cleaning and updating, trends and relationship between variables.
+
+
 
 
 <p align="center">
