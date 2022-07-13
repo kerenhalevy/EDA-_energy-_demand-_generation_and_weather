@@ -49,11 +49,16 @@ Wheather:
 ### Different energy sources usage as function of time and their effect on energy prices
 
 Predominant energy sources in Spain: fossil gass , hard coal ,wind.
+Around february and march there is an increase of use of wind and energy and hydro water reservoir and decrease in the use of hard coal energy, while around june-september there is an increase in the use of solar energy and decrease in the use of wind energy.
 
 <p align="center">
-  <img src="pictures/image6.PNG" width="500"/>
+  <img src="pictures/image6.PNG" width="600"/>
 </p>
 <p align="center">
 
-Around february and march there is an increase of use of wind and energy and hydro water reservoir and decrease in the use of hard coal energy, while around june-september there is an increase in the use of solar energy and decrease in the use of wind energy.
 
+Energy prices seem to increase with the use of fossil energy sources and to decrease with use of wind sources.
+<p align="center">
+  <img src="pictures/image7.PNG" width="700"/>
+</p>
+<p align="center">
