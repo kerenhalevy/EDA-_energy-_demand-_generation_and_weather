@@ -20,10 +20,10 @@ Data Exploration:
 Energy demand prices seem to drop in spring time and rise around the peaks of the summer and winter.
 
 Total Energy demand seem to drop in spring and autumn, and to rise in winter and summer.
+
 <p align="center">
-  <img src="pictures/image4.png" width="600"/>
+  <img src="pictures/image4.png" width="300"/>
 </p>
-<p align="center">
 
 Wheather: 
 - Cities are distribution is relatively wide, therefore we will assume that the weather of all of Spain can be represented by these cities.
