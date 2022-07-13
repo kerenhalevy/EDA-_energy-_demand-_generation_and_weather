@@ -1,4 +1,4 @@
-# EDA- Energy Demand Generation and Weather 
+# EDA - Energy Demand Generation and Weather 
 Data analysis exploration of 4 years of electrical consumption, generation, pricing, and weather data for Spain.  Hypothesis Investigation: Weather factors affect energy consumption and generation, which affect energy prices. 
 
 
@@ -16,13 +16,12 @@ Data analysis exploration of 4 years of electrical consumption, generation, pric
 
 Data Exploration:
 
-- Eneregy
-Energy demand prices seem to drop in spring time and rise around the peaks of the summer and winter.
-
-Total Energy demand seem to drop in spring and autumn, and to rise in winter and summer.
+Eneregy
+- Energy demand prices seem to drop in spring time and rise around the peaks of the summer and winter.
+- Total Energy demand seem to drop in spring and autumn, and to rise in winter and summer.
 
 <p align="center">
-  <img src="pictures/image4.png" width="300"/>
+  <img src="pictures/image4.png" width="800"/>
 </p>
 
 Wheather: 
