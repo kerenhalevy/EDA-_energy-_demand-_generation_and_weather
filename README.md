@@ -62,3 +62,10 @@ Energy prices seem to increase with the use of fossil energy sources and to decr
   <img src="pictures/image7.PNG" width="700"/>
 </p>
 <p align="center">
+
+Wind energy generation seem to increased with higher wind speed, especially in madrid. 
+With higher wind speeds energy prices seem to drop.
+<p align="center">
+  <img src="pictures/image8.PNG" width="700"/>
+</p>
+<p align="center">
