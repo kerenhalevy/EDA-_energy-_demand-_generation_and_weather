@@ -46,6 +46,7 @@ The project focused on Exploratory Data Analysis (EDA): data cleaning and updati
 
   Energy consumption and generation seem to have peaks around the summers and the winters. energy prices seem to generaly raise in the same times.
   In January 2016, there is a relative decrease in the price of energy that is not in the same trend of energy production and consumption.
+  
   <p align="center">
   <img src="pictures/image1.PNG" width="300"/>
 </p>
