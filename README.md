@@ -18,17 +18,8 @@ The project focused on Exploratory Data Analysis (EDA): data cleaning and updati
 ## Hypothesis : Weather factors affect energy consumption and generation, which affect energy prices.
 
 
-### Data Exploration
+### Assumption
 
-Eneregy
-- Total Energy demand seem to drop in spring and autumn, and to rise in winter and summer.
-- Energy demand prices seem to drop in spring time and rise around the peaks of the summer and winter.
-
-<p align="center">
-  <img src="pictures/image4.png" width="800"/>
-</p>
-
-Wheather: 
 - Cities are distribution is relatively wide, therefore we will assume that the weather of all of Spain can be represented by these cities.
 - All cities have similar number of measurements.
 <p align="center">
@@ -50,7 +41,7 @@ Wheather:
   - Data with hourly rainfall of 12 mm in Barcelona in summer 2016 (after checking the site that displays the weather data, an incorrect figure appears).
   - Exceptional wind speed- 133 m/s in July (one observation).
 
-### Different energy sources usage as function of time and their effect on energy prices
+### Different energy sources usage in mounthly usage and their effect on energy prices
 
 Predominant energy sources in Spain: fossil gass , hard coal ,wind.
 Around february and march there is an increase of use of wind and energy and hydro water reservoir and decrease in the use of hard coal energy, while around june-september there is an increase in the use of solar energy and decrease in the use of wind energy.
@@ -67,11 +58,13 @@ Energy prices seem to increase with the use of fossil energy sources and to decr
 </p>
 <p align="center">
 
-Wind energy generation seem to increased with higher wind speed.
 
+Wind energy generation seem to increased with higher wind speed.
 With higher wind speeds energy prices seem to drop.
+With higher wind speeds, more energy is generated from wind and less hard coal is burnt, therefore energy prices drop.
 
 <p align="center">
   <img src="pictures/image8.PNG" width="700"/>
 </p>
 <p align="center">
+
