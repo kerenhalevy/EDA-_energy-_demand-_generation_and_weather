@@ -41,6 +41,16 @@ The project focused on Exploratory Data Analysis (EDA): data cleaning and updati
   - Data with hourly rainfall of 12 mm in Barcelona in summer 2016 (after checking the site that displays the weather data, an incorrect figure appears).
   - Exceptional wind speed- 133 m/s in July (one observation).
 
+  
+### Energy generation, consumption and price as function of time
+
+  Energy consumption and generation seem to have peaks around the summers and the winters. energy prices seem to generaly raise in the same times.
+  In January 2016, there is a relative decrease in the price of energy that is not in the same trend of energy production and consumption.
+  <p align="center">
+  <img src="pictures/image1.PNG" width="300"/>
+</p>
+<p align="center">
+  
 ### Different energy sources usage in mounthly usage and their effect on energy prices
 
 Predominant energy sources in Spain: fossil gass , hard coal ,wind.
