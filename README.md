@@ -16,7 +16,15 @@ The project focused on Exploratory Data Analysis (EDA): data cleaning and updati
 - Wheather dataset: contains 4 years (2014-2018) of hourly whether measurments in 5 cities in Spain: Madrid, Valencia, Bilbao, Barcelona and Seville.
 
 ## Hypothesis : Weather factors affect energy consumption and generation, which affect energy prices.
-
+1. How energy consumption, generation and price change across time?
+2. How total energy consumtion and generation affect energy price?
+3. How the energy sources are used across time, and what their effect on energy prices?
+4. What weather parameters affect energy consumption and generation?
+5. Is there a shift in the use of different energy sources in different weather conditions?
+6. Is weather in specific areas more significant to energy consumption and generation?
+7. How weather changes across Spain (at different cities)?
+8. Are there specific weather conditions, in specific areas, that correlate with increased/decreased generation of energy from a certain source?
+9. What are the factors that affect energy prices?
 
 ### Assumption
 
