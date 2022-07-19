@@ -83,7 +83,7 @@ With higher wind speeds energy prices seem to drop.
 With higher wind speeds, more energy is generated from wind and less hard coal is burnt, therefore energy prices drop.
 
 <p align="center">
-  <img src="pictures/image8.PNG" width="700"/>
+  <img src="pictures/image9.PNG" width="700"/>
 </p>
 <p align="center">
 
