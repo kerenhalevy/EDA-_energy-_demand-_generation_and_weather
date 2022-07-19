@@ -37,7 +37,7 @@ The project focused on Exploratory Data Analysis (EDA): data cleaning and updati
 
 ### Data Dropping
     
-- Energy Dataset: Measurements with high consumption and very low generation (10,000): 
+- Energy Dataset: Measurements with high consumption and very low generation (10,000 MWh): 
 <p align="center">
   <img src="pictures/image5.png" width="400"/>
 </p>
